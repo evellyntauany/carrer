@@ -2,7 +2,9 @@
 
 
 Nome: Evellyn Tauany Rodrigues Lorena
-Cargo: Estágiari
+<br>
+Cargo: Estágiaria
+<br>
 Data: 01/01/2023 a 01/01/2026 
 
 ## Seção 1: Descubra seu objetivo e selecione um foco
@@ -37,7 +39,7 @@ Tenho como foco me desenvolver, montando um plano de estudo, me aprofundando nos
 
 3. **Impacto**:
 
- 
+ Terei autonomia para desenvolver, pensando em solucoes para somar ao time dando concepções diferentes.
 
 
 4. **Passos de ação**:
