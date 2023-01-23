@@ -65,10 +65,11 @@ seja consumido para pratidas de demandas do time.
 3. **Impacto**: Conseguir levar informações de forma clara melhorando as relações com o time e empresa.
 
 4. **Passos de ação**:
-   -Definir cursos não se aprofundando tanto em conceitos.
-   -Encontrar formas de aprimorar a comunicação.
-   -Definir numero de dias semanais para ir ao escritório.
-   -Definir objetivos como por exemplo: ligar a camera em reuniões.
+   
+    -Definir cursos não se aprofundando tanto em conceitos.
+    -Encontrar formas de aprimorar a comunicação.
+    -Definir numero de dias semanais para ir ao escritório.
+    -Definir objetivos como por exemplo: ligar a camera em reuniões.
 
 5. **Métricas**: As métricas serão obtidas atráves do feedback do lider e dos colegas de time.
 
