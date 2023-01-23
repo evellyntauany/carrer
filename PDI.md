@@ -26,9 +26,7 @@ Tenho como foco me desenvolver, montando um plano de estudo, me aprofundando nos
 
 ### 1 - Objetivo: Focar em estudos sobre React, Typescript e Documentação Next Js acompanhado de boas práticas para acessibilidade.
 
-
-1. **Objetivo de desenvolvimento**:
-
+1. **Objetivo de desenvolvimento**: Autonomia em desenvolvimento com código a altura dos códigos desenvolvidos pelo time hoje.
 
 2. **Momento atual**: No momento, estou realizando cursos de NextJS e praticando em demandas do time com o aprendizado alcançado, com isso acabo adquirindo mais conhecimento em estrutura de código, acessibilidade, Next JS com Typescript e Builder.
 
