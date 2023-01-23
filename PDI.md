@@ -20,7 +20,7 @@ Pretendo atingir esses objetivos e buscar ainda mais o aperfeiçoamento tanto em
 
 Meu foco
 
-Tenho como foco me desenvolver, montando um plano de estudo, me aprofundando nos conteudos designado.Meu foco maior é me tornar uma desenvolvedora frontend com competencias e habilidades ao nivel de uma.
+Tenho como foco me desenvolver, montando um plano de estudo, me aprofundando nos conteudos designado.Meu foco maior é me tornar uma desenvolvedora frontend com competencias e habilidades ao nivel do cargo.
  
 ## Seção 2: Como chegar lá
 
@@ -72,7 +72,7 @@ seja consumido para pratidas de demandas do time.
 
 5. **Métricas**: As métricas serão obtidas atráves do feedback do lider e dos colegas de time.
 
-6. **Obstáculos**: A timidiz é um grande obstaculo nesse objetivo, pois torna tudo um pouco mais dificil e acabo
+6. **Obstáculos**: A timidez é um grande obstaculo nesse objetivo, pois torna tudo um pouco mais dificil e acabo
 me restringindo a me comunicar.
 
  
