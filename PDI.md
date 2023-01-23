@@ -1,11 +1,9 @@
-<div style="text-align: center;"><img src="../Assets/PDI Logo.png" alt="Plano de Desenvolvimento Individual - Template" /></div><br/>
-
 
 Nome: Evellyn Tauany Rodrigues Lorena
 <br>
 Cargo: Estágiaria
 <br>
-Data: 01/01/2023 a 01/01/2026 
+Data: 15/08/2022 a 15/08/2024
 
 ## Seção 1: Descubra seu objetivo e selecione um foco
 
@@ -28,7 +26,6 @@ Tenho como foco me desenvolver, montando um plano de estudo, me aprofundando nos
 
 ### 1 - Objetivo: Focar em estudos sobre React, Typescript e Documentação Next Js acompanhado de boas práticas para acessibilidade.
 
- 
 
 1. **Objetivo de desenvolvimento**:
 
@@ -36,86 +33,49 @@ Tenho como foco me desenvolver, montando um plano de estudo, me aprofundando nos
 2. **Momento atual**: No momento, estou realizando cursos de NextJS e praticando em demandas do time com o aprendizado alcançado, com isso acabo adquirindo mais conhecimento em estrutura de código, acessibilidade, Next JS com Typescript e Builder.
 
  
-
 3. **Impacto**:
 
  Terei autonomia para desenvolver, pensando em solucoes para somar ao time dando concepções diferentes.
 
 
+4. **Passos de ação**: 
+   - Obter informações sobre quais tecnologias e conhecimentos devo alcançar.
+   - Conversar com pessoas que podem me ajudar no começo desse objetivo com recomendação de cursos, artigos etc.
+   - Criar um plano de estudo com base nessas recomendações.
+   - Organizar tempo de execução para cada curso definido no plano de estudo.
+   - Junto a realização dos cursos, colocar tambem em pratica pequenos projetos pessoais além da pratica colocada em demandas profissionais do time.
+   - Definir datas limites para a realização de cada curso.
+ 
+
+5. **Métricas**: Com os passos de ações definidas as métricas serão obtidas por meio de code review dos colegas de time atraves dos codigos desenvolvidos nas demandas
+do time.
+
+ 
+6. **Obstáculos**: Me organizar em tempo de estudo e tempo de trabalho além da organizacao de tempo no dia a dia para estudo, caso o horário de trabalho 
+seja consumido para pratidas de demandas do time.
+
+ 
+
+### 2 - Objetivo:  Ampliar e melhorar a comunicacao 
+
+ 
+
+1. **Objetivo de desenvolvimento**: Conseguir me comunicar de forma clara e objetiva
+
+2. **Momento atual**: Atualmente não me comunico de forma clara e objetiva.
+
+3. **Impacto**: Conseguir levar informações de forma clara melhorando as relações com o time e empresa.
+
 4. **Passos de ação**:
+   -Definir cursos não se aprofundando tanto em conceitos.
+   -Encontrar formas de aprimorar a comunicação.
+   -Definir numero de dias semanais para ir ao escritório.
+   -Definir objetivos como por exemplo: ligar a camera em reuniões.
 
-Criar um plano de estudos de 5 meses para a absorcao do conteudo basico de arquitetura de software:
+5. **Métricas**: As métricas serão obtidas atráves do feedback do lider e dos colegas de time.
 
-        - Finalizar os estudos sobre arquitetura de software ate a data limite de 5 meses corridos apos a finalizacao do PDI
-
-        - Aplicar as habilidades adiquiridas em projeto simples sobre arquitetura modular, C4, ports and adapters, arquitetura limpa e DDD.
-
-    
-
-     Criar um plano de estudos de 2 meses para a absorcao das tecnologias de comunicacoes entre sistemas:
-
-        - Finalizar os estudos sobre comunicacoes entre sistemas ate a data limite de 2 meses corridos apos a finalizacao do PDI
-
-        - Aplicar as habilidades adiquiridas em projeto simples com graphql, gRPC, REST.
-
-    
-
-     Criar um plano de estudos de 3 meses para a absorcao do conteudo basico de Banco de dados:
-
-        - Finalizar os estudos sobre cBanco de dados ate a data limite de 3 meses corridos apos a finalizacao do PDI
-
-        - Aplicar as habilidades adiquiridas em projeto simples com postgres e mongo db.
-
- 
-
-     Criar um plano de estudos de 2 meses para a absorcao de tacnologia de mensagerias:
-
-        - Finalizar os estudos sobre mensagerias ate a data limite de 2 meses corridos apos a finalizacao do PDI
-
-        - Aplicar as habilidades adiquiridas em projeto simples com rabitmq e kafka de forma basica.
-
- 
-
-     Criar um plano de estudos de 3 meses para a alcancar o expertise na linguagem Go:
-
-        - Finalizar os estudos sobre linguagem Go ate a data limite de 3 meses corridos apos a finalizacao do PDI
-
-        - Aplicar as habilidades adiquiridas em projeto simples sendo aplicado em todos os projetos citados acima.
-
- 
-
-     Criar um plano de estudos de 2 meses para a absorcao das ferramentas da AWS, em especifico, lambda, gateway e cloudfront:
-
-        - Finalizar os estudos sobre lambda, gateway e cloudfrontate a data limite de 2 meses corridos apos a finalizacao do PDI
-
-        - Aplicar as habilidades adiquiridas em projeto simples.
-
- 
-
- 
-
-5. **Métricas**: Com os passos de ação
-
- 
-6. **Obstáculos**: Me organizar em tempo de estudo e tempo de trabalho além da orrrganizacao de tempo no dia para estudo, caso o horário de trabalho
-
- 
-
-### 2 - Objetivo:  Aplicar os conhecimento adiquiridos em projetos open source
-
- 
-
-1. **Objetivo de desenvolvimento**: Ter a capacidade de atuar de forma segura em projetos open source.
-
-2. **Momento atual**: Atualmente nao atuo em nenhum projeto aberto.
-
-3. **Impacto**: Alem de ter contato com pessoas de diversos lugares do mundo, isso seria de grando valia para o meus curriculo profissional.
-
-4. **Passos de ação**: Essa meta será padita apos um terco das metas propostas no item 1, esiverem estabelecidas.
-
-5. **Métricas**: As metricas serao baseadas nos code reviews que obterei dos colaboradores que estao atuando no projeto open source o qual escolhi para atuar.
-
-6. **Obstáculos**: Inseguranca atual, penso que ainda tenho um pouco de imaturidade tecnica, e por esse motivo ha uma condicional para atuar nessa meta. obviamente, esse pensamento pode mudar conforme o progresso na atuacão dos estudos.
+6. **Obstáculos**: A timidiz é um grande obstaculo nesse objetivo, pois torna tudo um pouco mais dificil e acabo
+me restringindo a me comunicar.
 
  
 
